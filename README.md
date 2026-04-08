@@ -1,2 +1,3 @@
-# My-first-Repo
-This is my first GitHub repository for the lab.
+## About - Created by: [Your Name] - Course: [Course Name] - Date: [Date] 
+## Purpose 
+To learn how to: - Create a GitHub repository 
